@@ -1,0 +1,30 @@
+{
+  "name": "shop.ng",
+  "version": "0.0.0",
+  "authors": [
+    "Unicity"
+  ],
+  "description": "AngularJS Project",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.4",
+    "angularjs": "~1.4.0",
+    "angular-bootstrap": "~0.13.0",
+    "angular-ui-router": "~0.2.15",
+    "angular-sanitize": "~1.4.0",
+    "angular-translate": "~2.7.2",
+    "angular-translate-storage-cookie": "~2.7.2",
+    "angular-translate-storage-local": "~2.7.2",
+    "angular-translate-loader-static-files": "~2.7.2",
+    "underscore": "~1.8.3",
+    "angular-animate": "~1.4.0"
+  }
+}
